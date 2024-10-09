@@ -10,8 +10,6 @@ babel==2.16.0
 beautifulsoup4==4.12.3
 bleach==6.1.0
 blinker==1.8.2
-boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1711936407380/work
-Brotli @ file:///home/conda/feedstock_root/build_artifacts/brotli-split_1725267488082/work
 cachetools==5.5.0
 certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1725278078093/work/certifi
 cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1724956320552/work
